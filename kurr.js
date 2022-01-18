@@ -2004,7 +2004,7 @@ case 'catalog':
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menunya = `╭─❒ 「 Bot Info 」 ❒
- _Creator : *KurrXd*
+ _Creator : *AzenXd*
  _Battery : ${baterai.battery}_
  _Mode : ${publik ? 'Public' : 'Self'}_
  _Total Hit : ${cmhit.length}_
@@ -2012,7 +2012,7 @@ case 'catalog':
  _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
  _Nama Bot : Kurz Bot Assistan_
  _Nama Owner : ${NamaOwner}_
- _Nomor Owner : KurrXd
+ _Nomor Owner : AzenXd
  _Auto Composing : ${settings.autocomposing}_
  _Auto Recording : ${settings.autorecording}_
 └❏
