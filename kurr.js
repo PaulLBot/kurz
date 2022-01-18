@@ -1351,7 +1351,7 @@ reply('http://youtube.com/c/KurrXd')
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
- _Creator : *KurrXd*
+ _Creator : *AzenXd*
  _Battery : ${baterai.battery}_
  _Mode : ${publik ? 'Public' : 'Self'}_
  _Total Hit : ${cmhit.length}_
