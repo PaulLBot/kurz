@@ -2543,7 +2543,7 @@ break
 - QRIS ALL PAYMENT
 
 📥 BERMINAT ? HUBUNGI :
-https://bit.ly/BeliRdpBang ( KurrXd )
+wa.me//62895416489526 ( AzenXD )
 
 
 *MATURSUWUN MONGGO DI LARISI*`
@@ -3512,7 +3512,7 @@ break
 		anu =`PRICELIST SEWABOT
 		10K:6BULAN
 		20K:MANEN
-		SC? https://github.com/KurrXd/kurz`
+		SC? https://youtube.com/channel/UC6-SaCfnLhy_gHdBodNFP1A`
  buttons = [
 {buttonId: `menu`, buttonText: {displayText: 'BACK➡️'}, type: 1},
 {buttonId:`donasi`,buttonText:{displayText:'DONASI'},type:1},
