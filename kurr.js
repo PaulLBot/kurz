@@ -1921,8 +1921,8 @@ _Dilarang keras_
 -VC BOT
 LANGGAR BANNED
 
-GITHUB OWNER:https://github.com/KurrXd
-YOUTUBE OWNER:https://youtube.com/c/KurrXd`
+GITHUB OWNER:https://github.com/AzenMKS
+YOUTUBE OWNER:https://youtube.com/channel/UC6-SaCfnLhy_gHdBodNFP1A`
 sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`allmenu`,buttonText:{displayText:'ALL MENU'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
